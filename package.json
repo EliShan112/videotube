@@ -1,0 +1,15 @@
+{
+  "name": "videotube",
+  "version": "1.0.0",
+  "main": "src/index",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Eli Shan",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
